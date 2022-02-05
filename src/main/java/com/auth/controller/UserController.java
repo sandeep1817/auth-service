@@ -1,4 +1,4 @@
-package com.auth.user;
+package com.auth.controller;
 
 public class UserController {
 }
